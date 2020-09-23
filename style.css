@@ -1,0 +1,57 @@
+@keyframes blinking{
+    0%{   color: red;   }
+    47%{   color: blue; }
+    62%{   color: red; }
+    97%{   color: blue; }
+    100%{  color: red;   }
+    }
+
+
+
+
+.a1, .a2{
+    animation: blinking 1.5s infinite;
+    font-size: 20px;
+}
+.boxed {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    
+}
+.next {
+position: relative;
+left: 91.5%;
+bottom: 90%;
+width: 30px;
+height: 30px;
+
+
+}
+
+.size1 {
+font-size: 80px;
+}
+
+.size2 {
+    font-size: 40px;
+    color: yellow;
+    position:relative;
+    left:3%;
+    right:0%;
+}
+.size3 {
+    font-size: 40px;
+    color: yellow;
+    position:absolute;
+    left:47%;
+    bottom:53%;
+}
+.size4 {
+    font-size: 40px;
+    color: yellow;
+    position:absolute;
+    left:90%;
+    bottom:53%;
+    
+}
