@@ -1,1 +1,29 @@
 Här kan ni dokumentera tester:
+Första test är ett test om vad användaren tycker och tänker. Det första många märkte är den röda färgen på framsidan
+Pga att ha för höga kontraster som många "gamers" har så blev den röda väldigt onajs  att kolla på.
+Jag skulle kunna använda en färg av blå eller lila som är ändå användarvändlig men det är svårt att hitta
+samt skapa trevliga bilder med trevliga färger
+
+Andra testet är ett test om användaren skulle använda hemsidan.
+Svaret på det var att dem skulle använda hemsidan om det fanns en anledning för dem att läsa på om just det här.
+Vilket är ändå fair då många ungdommar har en väldig hög egenvilja och den brukar inte vara på att lära sig nya grejer.
+
+Efter en snabb fix med färgerna så byte jag ifrån Rött till turkos då färgen som går bäst med röd (enligt ett färghjul)
+Så skulle man ta någon typ av blå. Personligen tycker jag att mörk blå blir för mörkt med den här vinröda bakgrunden
+Så då är turkos som är en ljus färg mycket bättre.
+Sen så ändrade jag Hem knappen (home) till röd för att indikera att det är en backåt knapp som tar en tillbaks.
+
+Jag ändrade också bakgrunden på sidorna ifrån någon windows wannabe till en vit bakgrund med gråa hörn för en trevligare upplevelse
+Med kodningen har jag tagit bort mycket tom rum, tagit bort onödiga klasser och grejer för att göra det enklare för folk som läser koden.
+
+
+Om man ser på mitt arbete med hjälp av projekt planen så har jag inte använt projekt planen till 100% då jag inte förstår hur den funkar
+Men grejen är att mitt syfte har varit klart ifrån första början
+Gör en bra framsida med ett bra sätt för användarna att ta sig runt på hemsidan och när den är klar så kan man fortsätta
+Jag gjorde om min framsida 1,2 gånger då den inte var tillräckligt bra, då nuförtiden om något inte verkar bra 
+så kommer folk lämna hemsidan direkt. Då virus och andra dåliga grejer händer oftast på "sketchy" sidor.
+Så spelar ingen roll om extra sidorna är dålig sålänge framsidan är tillräckligt bra
+Sen så var jag sjuk ett bra tag. Missade ungefär 6 timmar av lektionstid men hann ändå att bygga klart min hemsida
+Jag skulle inte säga att den är perfekt men den är användar vänlig, får sin riktade målgrupp (ungdommar som vill lära sig om historia
+inom datorer och internet i helhet. Samt föräldrar som försöker förstå sig på det tekniska)
+Så länge den går att använda för dem tekniska och dem otekniska så är mitt arbete bra gjort.
